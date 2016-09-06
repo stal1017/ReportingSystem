@@ -4,7 +4,8 @@
 angular.module('myApp', [
     'ngRoute',
     'myApp.Home_View',
-    'myApp.weitere_Report_View'
+    'myApp.weitere_Report_View',
+    'myApp.Report1_View'
 ]).
 config(['$locationProvider', '$routeProvider', function($locationProvider, $routeProvider) {
     $locationProvider.hashPrefix('!');
