@@ -13,3 +13,5 @@ angular.module('myApp.Report2_View', ['ngRoute'])
 
         console.log("Report2_Ctrl geladen");
     }]);
+
+

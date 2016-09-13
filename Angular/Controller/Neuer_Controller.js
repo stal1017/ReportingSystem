@@ -13,3 +13,4 @@ angular.module('myApp.NeuerReport_View', ['ngRoute'])
 
         console.log("NeuerReport_Ctrl geladen");
     }]);
+
